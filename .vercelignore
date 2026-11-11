@@ -1,0 +1,11 @@
+venv/
+.venv/
+wheels/
+data/
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+.vercel/
+.env
